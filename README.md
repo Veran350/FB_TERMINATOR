@@ -17,7 +17,7 @@ pkg update -y
 pkg install git wget openjdk-17 unzip -y
 
 
-## 🛠️ **Tool Setup**  
+### 📲 **Tools setup**
 
 ### 1️⃣ Install APKTOOL  
 ```bash  
